@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Media Player App</string>
+    <string name="play_one_song">Play One Song</string>
+    <string name="start">start</string>
+    <string name="duration">duration</string>
+    <string name="rewind">Rewind</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="forward">Forward</string>
 </resources>
